@@ -1,0 +1,1 @@
+ here's a simple login registration page using only HTML:
